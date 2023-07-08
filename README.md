@@ -14,6 +14,7 @@ Getting Started
 Technologies Used
 
 License
+
 ## About
 The About section of the website provides an introduction to Philomena Musili and her passion for frontend development. It highlights her educational background, skills, and dedication to learning and growing in the field.
 
@@ -27,7 +28,9 @@ The Contact section provides various ways to get in touch with Philomena Musili 
 To view the website locally, follow these steps:
 
 Clone the repository: git clone https://github.com/your-username/portfolio.git
+
 Navigate to the project directory: cd portfolio
+
 Open the index.html file in a web browser.
 ## Technologies Used
 HTML
