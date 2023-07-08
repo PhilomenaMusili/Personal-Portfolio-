@@ -1,6 +1,6 @@
 # Portfolio
 This is a portfolio website showcasing the work and skills of Philomena Musili, an aspiring Frontend Software Engineer. The website provides information about the developer, displays a collection of projects, and offers contact details for potential collaboration.
-##Preview
+## Preview
 ![Preview](Portfolio.png)
 ## Table of Contents
 About
