@@ -3,10 +3,15 @@ This is a portfolio website showcasing the work and skills of Philomena Musili, 
 
 ## Table of Contents
 About
+
 Projects
+
 Contact
+
 Getting Started
+
 Technologies Used
+
 License
 ## About
 The About section of the website provides an introduction to Philomena Musili and her passion for frontend development. It highlights her educational background, skills, and dedication to learning and growing in the field.
